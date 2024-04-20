@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "city",
+        "color"
+    ],
+    "input_types": {},
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Create a cricket team name that would be great for IPL Expansion in {city} and primary color {color}",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
